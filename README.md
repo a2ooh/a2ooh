@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @a2ooh
 
-- 👀 I’m interested in Applied Statistics. I am currently focused on using my background in statistics and experience working with languages such as R, Python, SAS, 
+- 👀 I’m interested in Applied Statistics. I am currently focused on using my background in Applied Statistics and experience working with languages such as R, Python, SAS, 
 and SQL to acquire am entry-level, full-time position as a Data Analyst. In the future, I hope to learn more about machine learning (I have some rudimentary 
 experience with machine learning models in R and Python (Pandas)) as I am leaning in that direction for the future of my career.  
 
